@@ -12,4 +12,4 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 # Supabase and Serverless Framework
 Please read the article https://medium.com/@bencoderus/building-a-serverless-authentication-service-with-serverless-framework-and-supabase-595d6d62adaa
-to under the project.
+to understand the project.
